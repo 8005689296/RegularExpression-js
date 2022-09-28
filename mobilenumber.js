@@ -6,5 +6,5 @@ function valid(str){
                         console.log("Invalid phone number");
             }
 }
-const y = valid("91-8005-6892-96");
+const y = valid("xx-xxxx-xxxx-xx");
 console.log(y);
